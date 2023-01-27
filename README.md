@@ -1,6 +1,6 @@
 # cargo-template
 
-## Simple templates for Rust development (using cargo-generate)
+## A Simple template for Rust development (using cargo-generate)
 
 The package layout is based on [The Cargo Book][1]
 
